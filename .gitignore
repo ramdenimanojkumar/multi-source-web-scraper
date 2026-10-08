@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs (keep directory or ignore logs)
+logs/*.log
+
+# Output data (optional: can commit or exclude large files)
+# output/final_dataset.csv
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

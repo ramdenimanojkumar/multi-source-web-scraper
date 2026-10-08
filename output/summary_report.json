@@ -1,0 +1,27 @@
+{
+  "pipeline_status": "SUCCESS",
+  "timestamp": "2026-10-08T04:37:21.162382+00:00",
+  "books": {
+    "records_scraped": 40,
+    "status": "SUCCESS",
+    "error": null
+  },
+  "quotes": {
+    "records_scraped": 20,
+    "status": "SUCCESS",
+    "error": null
+  },
+  "total_records_scraped": 60,
+  "records_after_cleaning": 60,
+  "validation": {
+    "valid": 60,
+    "rejected": 0,
+    "failure_reasons": {}
+  },
+  "duplicates": {
+    "detected": 0,
+    "removed": 0
+  },
+  "final_record_count": 60,
+  "execution_time_seconds": 28.26
+}
